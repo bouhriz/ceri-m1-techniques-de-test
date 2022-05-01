@@ -1,4 +1,4 @@
-package ceri.abderrahim.projetTT;
+package fr.univavignon.pokedex.api;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
