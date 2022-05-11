@@ -2,7 +2,8 @@
 [![codecov](https://codecov.io/gh/bouhriz/ceri-m1-techniques-de-test/branch/master/graph/badge.svg?token=VLFNYT032D)](https://codecov.io/gh/bouhriz/ceri-m1-techniques-de-test)
 ![alt text](https://github.com/bouhriz/ceri-m1-techniques-de-test/blob/master/target/site/badges/checkstyle-result.svg)
 [![javadoc](https://javadoc.io/badge2/org.springframework/spring-core/javadoc.svg)](https://javadoc.io/doc/org.springframework/spring-core)
-.[Documentation](https://imanehacen.github.io/ceri-m1-techniques-de-test/fr/univavignon/pokedex/api/package-summary.html)
+
+Vous trouvrez le lien de javadoc [ici](https://imanehacen.github.io/ceri-m1-techniques-de-test/fr/univavignon/pokedex/api/package-summary.html)
 ## Introduction
 
 Vous allez à travers ces projet mettre en application une partie des aspects évoqués en cours vis à vis des techniques de tests.  
