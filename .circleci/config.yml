@@ -33,9 +33,9 @@ jobs:
           command: mvn -DskipTests javadoc:javadoc
       - codecov/upload
   docs-deploy:
-                docker:
+              docker:
                         - image: node:8.10.0
-                steps:
+              steps:
                                 - checkout
                                 - attach_workspace:
                                         at: docs/
