@@ -44,7 +44,7 @@ jobs:
                                         command: |
                                                 npm install -g --silent gh-pages@2.0.1
                                 - run:
-                                        name: Deploy docs to docsbranch branch
+                                        name: Deploy docs to gh-pages branch
                                         command: gh-pages  --dist docs/apidocs/  
 
 # Invoke jobs via workflows
