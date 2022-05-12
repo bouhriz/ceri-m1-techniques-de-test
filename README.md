@@ -4,7 +4,7 @@
 [![javadoc](https://javadoc.io/badge2/org.springframework/spring-core/javadoc.svg)](https://javadoc.io/doc/org.springframework/spring-core)
 
 Abderrahim BOUHRIZ M1 ILSEN
-Vous trouvrez le lien de javadoc [ici](https://github.com/bouhriz/ceri-m1-techniques-de-test/blob/master/target/site/apidocs/allpackages-index.html)
+Vous trouvrez le lien de javadoc [ici](https://bouhriz.github.io/ceri-m1-techniques-de-test/fr/univavignon/pokedex/api/package-summary.html)
 
 ## Introduction
 
