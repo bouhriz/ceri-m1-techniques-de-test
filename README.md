@@ -5,7 +5,7 @@
 
 Abderrahim BOUHRIZ M1 ILSEN
 
-Vous trouvrez le lien de javadoc [ici](https://imanehacen.github.io/ceri-m1-techniques-de-test/fr/univavignon/pokedex/api/package-summary.html)
+
 ## Introduction
 
 Vous allez à travers ces projet mettre en application une partie des aspects évoqués en cours vis à vis des techniques de tests.  
