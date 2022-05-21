@@ -1,4 +1,5 @@
 # UCE Génie Logiciel Avancé : Techniques de tests
+[![CircleCI](https://circleci.com/gh/bouhriz/ceri-m1-techniques-de-test.svg)](https://app.circleci.com/pipelines/github/bouhriz)
 [![codecov](https://codecov.io/gh/bouhriz/ceri-m1-techniques-de-test/branch/master/graph/badge.svg?token=VLFNYT032D)](https://codecov.io/gh/bouhriz/ceri-m1-techniques-de-test)
 ![alt text](https://github.com/bouhriz/ceri-m1-techniques-de-test/blob/master/target/site/badges/checkstyle-result.svg)
 [![javadoc](https://javadoc.io/badge2/org.springframework/spring-core/javadoc.svg)](https://javadoc.io/doc/org.springframework/spring-core)
